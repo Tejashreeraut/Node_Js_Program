@@ -1,12 +1,13 @@
 import logo from './logo.svg';
 import './App.css';
-
+import Demo from './demo';
 function App() {
   return (
 
      <div>
               <h1>KDN INFOTECH</h1>
               <h3>Address:Kharadi bypass,pune</h3>
+              <Demo />
       </div>
     // <div className="App">
     //   <header className="App-header">
